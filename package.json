@@ -1,0 +1,20 @@
+{
+  "name": "typing-game-omarzada",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[D\u001b[D\u001b[\u001bsrc/server.js)",
+  "scripts": {
+    "test": "set NODE_ENV&& jasmine",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaomarzada/typing-game-omarzada.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaomarzada/typing-game-omarzada/issues"
+  },
+  "homepage": "https://github.com/isaomarzada/typing-game-omarzada#readme"
+}
